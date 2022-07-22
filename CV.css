@@ -1,0 +1,99 @@
+body {
+ max-width: auto;
+ border-top: 7px solid #005889;
+}
+
+
+h1 {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 28px;
+}
+
+h3 {
+    width: 372px;
+    height: 17px;
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    }
+
+#last-name {
+  color: #005889;
+  margin-left: 6px;
+}
+
+a:link {
+  text-decoration: none;
+  color: #005889;
+}
+
+.info {
+  padding-left: 25px;
+  font-size: 11px;
+  
+}
+
+h3 {
+  color: #005889;
+}
+
+.strong {
+  font-weight: bold;
+  color: #005889;
+
+}
+
+#padding-objective {
+ margin-left: 26px;
+}
+
+li {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 18px;
+}
+
+p {
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 18px;
+}
+
+dd:first-child {
+
+    height: 14px;
+    left: 41.81%;
+    right: 35.61%;
+    top: calc(50% - 14px/2 - 20px);
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+
+}
+
+dd 
+{
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 20px;  
+    padding-left: 25px;
+}
+
+.layout {
+    margin: 10px 40px;
+}
+
+
